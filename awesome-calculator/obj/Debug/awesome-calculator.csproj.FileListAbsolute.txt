@@ -1,0 +1,9 @@
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\bin\Debug\awesome-calculator.exe.config
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\bin\Debug\awesome-calculator.exe
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\bin\Debug\awesome-calculator.pdb
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\obj\Debug\awesome-calculator.csproj.AssemblyReference.cache
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\obj\Debug\awesome_calculator.Properties.Resources.resources
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\obj\Debug\awesome-calculator.csproj.GenerateResource.cache
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\obj\Debug\awesome-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\obj\Debug\awesome-calculator.exe
+C:\Users\Marcus Damien Tamama\source\repos\awesome-calculator\awesome-calculator\obj\Debug\awesome-calculator.pdb
